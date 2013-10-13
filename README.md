@@ -1,1 +1,3 @@
+## Teaching Teens Offensive Security Through Game and Projects
+
 This year SocialGeeks planned and executed a Capture the Flag event at a small Idaho high-school. The 13 hour event included 20 students and 13 mentors (teachers and industry professionals). Not knowing what to expect, the skill level was aimed over their teachers head. The day consisted of lectures and a lot of hacking. By the end of the day, the teens, mostly without programming/linux experience, were coding solutions on linux machines and solving challenges. We would like to share this inspirational story with you and ask for help in going forward targeting teens with project and game based learning.
